@@ -1,0 +1,33 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body{
+    background-color: hsl(210, 46%, 95%);
+}
+.body{
+    display: flex;
+    margin: 5% 10%;
+    background-color: #fff;
+}
+#image-main{
+    height: inherit;
+    /* width: 90%; */
+}
+.prof{
+    display: flex;
+}
+h2{
+    font-weight: 700;
+    color: hsl(217, 19%, 35%);
+}
+p{
+    font-size: 13px;
+}
+.prof img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+.content{
+    width: 40%;
+}
